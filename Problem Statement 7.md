@@ -1,4 +1,5 @@
 **Problem Statement:**
+
 Attach a Photo resistor and use them to control the brightness of a led.
 
 **Components:**
