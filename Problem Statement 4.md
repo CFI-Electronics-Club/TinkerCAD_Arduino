@@ -8,4 +8,4 @@ Attach a potentiometer and get input values from it.
 * The analog values are read into the variable val using the analogRead() function.
 * We need to display the value using the Serial Monitor. The Serial Monitor is initialised using Serial.begin(9600) and it is printed using Serial.println(val).
 ## Screenshot of Circuit and Code
-![](images/p4.png)
+![](images/Screenshot (138).png)
