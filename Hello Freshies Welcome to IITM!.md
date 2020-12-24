@@ -2,7 +2,9 @@
 ## Circuit
 ![](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/Hello-Freshies.png)
 ## Code
-```/*
+
+```cpp
+/*
   LiquidCrystal Library - Hello World
 
  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal
