@@ -30,7 +30,7 @@ Controlling the LED using the delay would have been simpler for you, now try con
 Once you ace the LED simulations, try this out where get the readings from a Potentiometer. Full details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%203.md).
 
 ### 4. Control an LED's brightness using a photo resistor
-The above ones could have been an easier one, then continue trying this thing were you kind a get started with sensors, photo resistors are the simplest form of variable resistance that works based on the brightness of the light. Complete Problem statement [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statements%201%20%26%204.md).
+The above ones could have been an easier one, then continue trying this thing were you kind a get started with sensors, photo resistors are the simplest form of variable resistance that works based on the brightness of the light. Complete Problem statement [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%204.md).
 
 ### 5. Control a servo using Potentiometer
 Bored of working only with LED's, here you take your next step and start working with servo motors and control them using the readings of the Potentiometer. Complete details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%205.md).
