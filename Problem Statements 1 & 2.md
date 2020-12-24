@@ -6,7 +6,9 @@ I hope most of you would have attended the live session. If not, fret not. Just 
 
 ## Problem statement 1: Blinking an in-built LED (Pin 13):
 
-In the Arduino board, there is an in-built LED which is present to indicate whether the power supply is proper and the board is properly functioning. Since, we are just now starting on, the PS is simple. Just blink that LED periodically, i.e., switch it on for first half of the period and switch it off in the next half. (Take the period as 10 seconds).
+In the Arduino board, there is an in-built LED which is present to indicate whether the power supply is proper and the board is properly functioning. Since, we are just now starting on, the PS is simple. Just blink that LED periodically, i.e., switch it on for first half of the period and switch it off in the next half. (Take the period as 10 seconds). 
+
+**Disclaimer**: The solution is contained below. If you like to do it on your own, please try to do it and then if you are stuck, check the solution provided. 
 
 1. LED is blinking
 ![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p1(1).jpg)
@@ -26,6 +28,8 @@ ________________________________________________________________________________
 ## Problem statement 2: Blinking an external LED:
 
 This PS is very much similar to the previous PS except that now you should blink an LED which is externally connected to the Arduino board periodically for 10 seconds with it being ON for the first five seconds and OFF for the next five seconds.
+
+**Disclaimer**: The solution is contained below. If you like to do it on your own, please try to do it and then if you are stuck, check the solution provided.
 
 1. LED is blinking
 ![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p2(1).jpg)
