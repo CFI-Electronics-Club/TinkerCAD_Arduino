@@ -31,11 +31,6 @@ This PS is very much similar to the previous PS except that now you should blink
 
 **Disclaimer**: The solution is contained below. If you like to do it on your own, please try to do it and then if you are stuck, check the solution provided.
 
-1. LED is blinking
-![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p2(1).jpg)
-
-2. LED ain't blinking:
-![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p2(2).jpg)
 
 3. Arduino code:
 
