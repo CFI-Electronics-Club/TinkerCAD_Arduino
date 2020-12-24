@@ -4,7 +4,7 @@ Hola Freshies!
 
 Welcome to IITM and Electronics club, and we hope you all had a great session and liked it.
 
-Here are few key resources that we have jot down to help you with the TinkerCAD if at all you missed something during the session.
+Here are few key resources that we have jot down to help you with the TinkerCAD if at all you missed something during the session. Are you wondering how the circuit that was displayed as GIF in the poster for the session worked, here is the code for that check it out [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/%22Hello%20Freshies%22%20Circuit.md)
 
 ### Logging in to TinkerCAD
 1. Go to [TinkerCAD's website](https://www.tinkercad.com/)
