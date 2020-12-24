@@ -1,6 +1,6 @@
-# Problem Statement 4
+# Problem Statement
 
-## Problem Statement
+## Problem Statement 4
 Attach a potentiometer and get input values from it.
 ## Concept
 * The potentiometer is connected to an analog pin (A5) of the Arduino.
