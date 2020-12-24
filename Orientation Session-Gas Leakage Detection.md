@@ -19,7 +19,7 @@ To design a circuit using Arduino which alerts us if gas concentration is greate
 
 
 ### Code:
-```
+```cpp
 int gas = 0;
 
 void setup()
