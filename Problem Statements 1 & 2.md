@@ -15,6 +15,7 @@ In the Arduino board, there is an in-built LED which is present to indicate whet
 ![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p1(2).jpg)
 
 3. Arduino code:
+
 ![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p1(3).jpg)
 
 ### Solution:
