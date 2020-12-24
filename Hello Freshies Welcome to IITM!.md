@@ -1,4 +1,6 @@
 # Circuitery of scrolling display of "Hello Freshies Welcome to IITM"
+## Circuit
+
 ## Code
 ```/*
   LiquidCrystal Library - Hello World
