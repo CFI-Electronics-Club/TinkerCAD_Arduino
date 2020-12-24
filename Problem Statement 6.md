@@ -4,7 +4,7 @@
 The aim of the simulation is to rotate a servo motor based on the readings of a potentiometer. 
 
 ### Description:
-A servo motor is a special kind of DC motor which provides us precise control in terms of angular position or linear position. We control the exact angle of rotation of the servo motor using the data that we have collected using the Potentiometer. 
+A servo motor is a special kind of DC motor which provides us precise control in terms of angular position or linear position. We control the exact angle of rotation of the servo motor using the data that we have collected using the Potentiometer. Potentiometer is like a analog device which gives us anlaog data based on the rotation of the nob present in it. It is the same that is present in the fan regulators.
 
 ### Components:
 1. Arduino Uno
