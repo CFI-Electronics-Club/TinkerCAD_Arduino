@@ -17,8 +17,10 @@ In the Arduino board, there is an in-built LED which is present to indicate whet
 3. Arduino code:
 ![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p1(3).jpg)
 
-## Solution:
+### Solution:
 As you could see from the pictures, the solution is really simple. Just configure the digital pin 13 to be HIGH and LOW for the required time intervals. No external circuitry needed since we are after all, blinking an in-built LED.
+
+___________________________________________________________________________________________________________________________________________________________________________________
 
 ## Problem statement 2: Blinking an external LED:
 
