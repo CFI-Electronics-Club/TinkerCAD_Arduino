@@ -1,6 +1,6 @@
 # Circuitery of scrolling display of "Hello Freshies Welcome to IITM"
 ## Circuit
-![]("https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/Hello-Freshies.png")
+![](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/Hello-Freshies.png)
 ## Code
 ```/*
   LiquidCrystal Library - Hello World
