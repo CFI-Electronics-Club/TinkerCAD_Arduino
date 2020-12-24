@@ -6,7 +6,7 @@ Welcome to IITM and Electronics club, and we hope you all had a great session an
 
 Here are few key resources that we have jot down to help you with the TinkerCAD if at all you missed something during the session.
 
-## Logging in to TinkerCAD
+### Logging in to TinkerCAD
 1. Go to [TinkerCAD's website](https://www.tinkercad.com/)
 2. Login to the website with your google account.
 3. Move to the Circuits part, which you could see in the left dashboard.
@@ -30,4 +30,4 @@ Controlling the LED using the delay would have been simpler for you, now try con
 Once you ace the LED simulations, try this out where get the readings from a Potentiometer. Full details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%204.md)
 
 ### 4. Control an LED's brightness using a photo resistor.
-
+The above ones could have been an easier one, then continue trying this thing were you kind a get started with sensors, photo resistors are the simplest form of variable resistance that works based on the brightness of the light. Complete Problem statement [here]()
