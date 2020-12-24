@@ -27,10 +27,14 @@ This is the basic and the simplest simulation that you could do on arduino. You 
 Controlling the LED using the delay would have been simpler for you, now try controlling the LED with a push button. Complete details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%203.md).
 
 ### 3. Getting readings from a Potentiometer
-Once you ace the LED simulations, try this out where get the readings from a Potentiometer. Full details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%203.md).
+Once you ace the LED simulations, try this out where get the readings from a Potentiometer. Full details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%204.md).
 
 ### 4. Control an LED's brightness using a photo resistor
-The above ones could have been an easier one, then continue trying this thing were you kind a get started with sensors, photo resistors are the simplest form of variable resistance that works based on the brightness of the light. Complete Problem statement [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%204.md).
+The above ones could have been an easier one, then continue trying this thing were you kind a get started with sensors, photo resistors are the simplest form of variable resistance that works based on the brightness of the light. Complete Problem statement [here]().
 
 ### 5. Control a servo using Potentiometer
-Bored of working only with LED's, here you take your next step and start working with servo motors and control them using the readings of the Potentiometer. Complete details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%205.md).
+Bored of working only with LED's, here you take your next step and start working with servo motors and control them using the readings of the Potentiometer. Complete details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%206.md).
+
+
+## Problem Statements to Work on
+Hope you are familiar now with TinkerCAD and basics of Arduino. Here are certain cool problem statemnts that we have setup for you to work on. These are just fun projects to work on, try to solve them before 31st December 2020, and make a perfect farewell to 2020. The complete instructions and the problem statement is [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/ProblemStatement.MD)
