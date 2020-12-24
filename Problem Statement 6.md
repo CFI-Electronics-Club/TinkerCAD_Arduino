@@ -1,7 +1,10 @@
 
 ## Controlling Servo using Potentiometer:
 ### Problem Statement:
-The aim of the simulation is to rotate a servo motor based on the readings of a potentiometer. A servo motor is
+The aim of the simulation is to rotate a servo motor based on the readings of a potentiometer. 
+
+### Description:
+A servo motor is a special kind of DC motor which provides us precise control in terms of angular position or linear position. We control the exact angle of rotation of the servo motor using the data that we have collected using the Potentiometer. 
 
 ### Components:
 1. Arduino Uno
@@ -38,3 +41,5 @@ void loop() {
    delay(15);
 }
 ```
+### Link to TinkerCAD:
+[Link](https://www.tinkercad.com/things/gE6u7EHe2Jy)
