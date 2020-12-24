@@ -33,3 +33,4 @@ Once you ace the LED simulations, try this out where get the readings from a Pot
 The above ones could have been an easier one, then continue trying this thing were you kind a get started with sensors, photo resistors are the simplest form of variable resistance that works based on the brightness of the light. Complete Problem statement [here]()
 
 ### 5. Control a servo using Potentiometer
+Bored of working only with LED's, here you take your next step and start working with servo motors and control them using the readings of the Potentiometer. Complete details [here](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/Problem%20Statement%206.md)
