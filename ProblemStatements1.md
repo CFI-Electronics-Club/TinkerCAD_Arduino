@@ -1,4 +1,4 @@
-# Problem statements 1 and 2 #
+# Problem statements #
 
 Introduction: 
 
