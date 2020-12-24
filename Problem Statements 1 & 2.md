@@ -43,3 +43,8 @@ This PS is very much similar to the previous PS except that now you should blink
 
 ### Solution:
 The code is mostly the same code used in the previous PS. Infact, only the pin number is changed from 9 to 13 since the anode is connected to pin 9 across a resistor. You could even use pin 13 itself for the purpose. Pin 13 is special because it also controls the internal LED. Coming to the external circuitry, what is done is the cathode is directly connected to Ground(**GND**) or logical LOW. The anode is connected to pin 9 via a resistor. Such a resistor is known as a current controlling resistor which prevents a very high current from flowing into the LED and hence, prevents it from being damaged.
+
+## Links to the TinkerCAD circuits:
+
+[Blinking an in-built LED (Pin 13)](https://www.tinkercad.com/things/buVfr3nr1CD-blinking-an-in-built-led/editel?sharecode=ANGtTLGq9eGByxeh_qvNuvi1ZTnO_AKegXDY-5uDa-s)
+[Blinking an external LED](https://www.tinkercad.com/things/gkocusjLsds-blinking-an-external-led/editel?sharecode=cVtirfTHw1lSKSDOYF22_H1mT32WZrt19SsBkdlDRAs)
