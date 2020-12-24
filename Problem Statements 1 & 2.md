@@ -8,4 +8,5 @@ I hope most of you would have attended the live session. If not, fret not. Just 
 
 In the Arduino board, there is an in-built LED which is present to indicate whether the power supply is proper and the board is properly functioning. Since, we are just now starting on, the PS is simple. Just blink that LED periodically, i.e., switch it on for 50 percent of the period and switch it off in the next half.
 
+![temp](https://github.com/CFI-Electronics-Club/TinkerCAD_Arduino/blob/main/images/p1(1).jpg)
 
