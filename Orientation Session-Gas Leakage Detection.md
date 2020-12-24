@@ -10,6 +10,10 @@ To design a circuit using Arduino which alerts us if gas concentration is greate
 5. Two 220ohm resistance(for LED RGB)
 6. One 1kilo-ohm resistance(for gas sensor)
 
+### Optional 
+
+[How does a Gas sensor work ?](https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/#:~:text=Using%20a%20simple%20voltage%20divider,anywhere%20from%20200%20to%2010000ppm)
+
 ### Schematic:
 ![diagram](./images/GasDetection-diagram.jpeg)
 
