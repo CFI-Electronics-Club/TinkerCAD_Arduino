@@ -1,7 +1,7 @@
 
 ## Controlling Servo using Potentiometer:
 ### Problem Statement:
-To rotate a servo using inputs from potentiometer.
+The aim of the simulation is to rotate a servo motor based on the readings of a potentiometer. A servo motor is
 
 ### Components:
 1. Arduino Uno
