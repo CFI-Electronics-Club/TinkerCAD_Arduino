@@ -2,6 +2,8 @@
 
 **Deadline** : December 31 11:59pm
 
+**Updated Deadline** : Jan 3 ,2021 11:59pm
+
 *Instructions* : 
 
 1. Finish all four of the P.S. 
